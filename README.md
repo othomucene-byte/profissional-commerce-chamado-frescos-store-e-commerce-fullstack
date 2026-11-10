@@ -1,6 +1,6 @@
 # Profissional Commerce Chamado Frescos Store - E-Commerce Fullstack
 
-Loja online completa com vitrine reativa, carrinho dinâmico, checkout Pix/Cartão, miniDb relacional integrado, miniAuth RBAC e testes automatizados Playwright.
+Interface atualizada com base no seu pedido.
 
 ## 🚀 Tecnologias
 - **React 19 + TypeScript**
